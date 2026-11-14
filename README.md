@@ -125,6 +125,10 @@ The pivot report includes summaries for:
 - Department referrals
 - Attendance status
 
+## Dashboard Preview
+
+![Hospital Emergency Room Dashboard](screenshots/dashboard.png)
+
 ## Key Metrics in the Pivot Report
 
 The following values are read from the supplied `PIVOT REPORT` worksheet. They describe the pivot report as currently saved in the workbook; they should not be treated as recalculated metrics for all 608 rows in the `DATA` worksheet.
