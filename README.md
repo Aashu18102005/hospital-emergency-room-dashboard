@@ -94,7 +94,7 @@ The `DATA` worksheet contains 608 patient records and the following 13 fields:
 
 ## Dashboard Preview
 
-![Hospital Emergency Room Dashboard](screenshots/dashboard-preview.png)
+![Hospital Emergency Room Dashboard](screenshots/dashboard.png.png)
 
 *Snapshot of the Excel Interactive Dashboard displaying patient counts, waiting times, satisfaction scores, admission status, gender distribution, and department referrals.*
 
